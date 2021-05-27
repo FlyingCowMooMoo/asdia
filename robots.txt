@@ -1,0 +1,1 @@
+Sitemap: /creative-theme-jekyll-new/sitemap.xml
